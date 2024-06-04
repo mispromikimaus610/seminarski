@@ -1,0 +1,1 @@
+/*cd seminarski && npm install && npm start */
